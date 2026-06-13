@@ -1,10 +1,10 @@
-# 📊 Tools and Methods of Data Analysis Assignments
+# Tools and Methods of Data Analysis Assignments
 
 This repository contains Jupyter Notebook assignments and statistical concepts studied during the **Tools and Methods of Data Analysis** course.
 
 ---
 
-## 📁 Repository Structure
+## Repository Structure
 
 ```
 TOOLS_METHODS_DATA_ANALYSIS_ASSIGNMENTS
@@ -18,7 +18,7 @@ TOOLS_METHODS_DATA_ANALYSIS_ASSIGNMENTS
 
 ---
 
-## 📚 Topics Covered
+## Topics Covered
 
 ### Probability Distributions
 
@@ -61,7 +61,7 @@ TOOLS_METHODS_DATA_ANALYSIS_ASSIGNMENTS
 
 ---
 
-## 🎯 Course Objectives
+## Course Objectives
 
 This repository demonstrates practical applications of:
 
@@ -74,7 +74,7 @@ This repository demonstrates practical applications of:
 
 ---
 
-## 👨‍💻 Author
+## Author
 
 **Manikanta Handral**
 
@@ -86,6 +86,6 @@ Germany
 
 ---
 
-## ⭐ Repository Purpose
+## Repository Purpose
 
 This repository serves as a collection of notebooks and assignments for revision, experimentation, and future reference in statistical analysis and data science.
