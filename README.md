@@ -1,6 +1,6 @@
-# Tools and Methods of Data Analysis Assignments
+# Tools and Methods for Data Analysis Assignments
 
-This repository contains Jupyter Notebook assignments and statistical concepts studied during the **Tools and Methods of Data Analysis** course.
+This repository contains a collection of Jupyter notebooks developed as part of the **Tools and Methods for Data Analysis** course. It serves as a reference for statistical concepts, probability distributions, inferential statistics, and data visualization techniques using Python.
 
 ---
 
@@ -10,82 +10,129 @@ This repository contains Jupyter Notebook assignments and statistical concepts s
 TOOLS_METHODS_DATA_ANALYSIS_ASSIGNMENTS
 │
 ├── Assignments
+├── Fundamental_Concepts
+├── Inferential_Statistics
 ├── Probability_Distributions
-├── Statistical_Concepts
 ├── Statistical_Tests
-└── Visualization
+├── Visualization
+└── README.md
 ```
 
 ---
 
-## Topics Covered
+# Fundamental Concepts
 
-### Probability Distributions
+- Central Limit Theorem
+
+---
+
+# Probability Distributions
 
 - Normal Distribution
 - Uniform Distribution
 - Binomial Distribution
 - Poisson Distribution
-- Poisson Parameter Analysis
+- Poisson Distribution Parameter Analysis
 - Exponential Distribution
 - Exponential Distribution Applications
 
-### Statistical Tests
+---
 
-- ANOVA
-- Normality Testing (Shapiro-Wilk)
+# Inferential Statistics
 
-### Fundamental Concepts
-
-- Central Limit Theorem (CLT)
-
-### Visualization
-
-- Best Plot Selection
-
-### Assignments
-
-- Home Assignment 5
-- Home Assignment 6
+- Hypothesis Testing
+- Confidence Intervals
+- Correlation Analysis
+- Regression Analysis
+- Z-Test
+- T-Test
+- Chi-Square Test
+- Mann-Whitney U Test
+- Wilcoxon Signed-Rank Test
+- Friedman Test
 
 ---
 
-## 🛠 Libraries Used
+# Statistical Tests
+
+- ANOVA
+- Shapiro-Wilk Normality Test
+- Levene Test
+- Q-Q Plot
+
+---
+
+# Visualization
+
+- Best Plot Selection
+
+---
+
+# Technologies Used
 
 - Python
+- Jupyter Notebook
 - NumPy
 - Pandas
 - Matplotlib
 - Seaborn
 - SciPy
+- Scikit-Learn
 
 ---
 
-## Course Objectives
+# Objectives
 
-This repository demonstrates practical applications of:
+This repository aims to:
 
-- Probability distributions
-- Statistical inference
-- Hypothesis testing
-- Data visualization
-- Normality analysis
-- Exploratory data analysis
+- Understand statistical concepts and methods.
+- Perform exploratory data analysis.
+- Apply probability distributions.
+- Conduct hypothesis testing.
+- Visualize data effectively.
+- Develop reusable notebooks for future reference.
 
 ---
 
-## Author
+# Topics Covered
+
+### Probability Distributions
+
+- Normal Distribution
+- Binomial Distribution
+- Poisson Distribution
+- Exponential Distribution
+
+### Inferential Statistics
+
+- Confidence Intervals
+- Hypothesis Testing
+- Correlation
+- Regression
+- Parametric Tests
+- Non-parametric Tests
+
+### Statistical Assumption Testing
+
+- Shapiro-Wilk Test
+- Levene Test
+- Q-Q Plot
+
+### Data Visualization
+
+- Choosing appropriate plots
+- Understanding relationships between variables
+
+---
+
+# Author
 
 **Manikanta Handral**
 
-M.Sc. Computer Science
+Master's Student
 
-SRH University Leipzig
-
-Germany
+Data Analysis and Statistical Methods
 
 ---
 
-## Repository Purpose
-
-This repository serves as a collection of notebooks and assignments for revision, experimentation, and future reference in statistical analysis and data science.
+## If you find this repository useful, feel free to star it!
