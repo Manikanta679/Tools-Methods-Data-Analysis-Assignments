@@ -127,7 +127,7 @@ This repository aims to:
 
 # Author
 
-**Manikanta Handral**
+**Manikanta Engalligi**
 
 Master's Student
 
